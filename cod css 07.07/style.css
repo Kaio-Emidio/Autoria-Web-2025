@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&family=Indie+Flower&family=Manufacturing+Consent&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+div {
+    border: 1px solid red;
+
+    height: 50px;
+    width: 100%;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.um {
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('https://conteudo.imguol.com.br/c/entretenimento/7a/2021/06/16/meme-doge-1623883826733_v2_3x4.jpg');
+}
+
+.dois {
+    text-align: center;
+    font-size: 15pt;
+    font-family: 'Open Sans';
+    background-image: url('https://pixelcorner.fr/cdn/shop/articles/le-nyan-cat-618805_1024x1024.webp?v=1710261022');
+}
+
+.tres {
+    text-align: right;
+    font-size: 1.3em;
+    font-family: 'Manufacturing Consent';
+    background-image: url('https://i.pinimg.com/736x/0b/12/9a/0b129a23a73de948df31f59ba8d78478.jpg');
+}
+
+.quatro {
+    font-size: 5mm;
+    font-family: 'Indie Flower';
+    background-image: url('https://media.tenor.com/ckcRbRDEmN8AAAAe/smooth-brain-kitty.png');
+}
+
+.cinco {
+    font-size: 2vh;
+    font-family: 'Bitcount Grid Double';
+    background-image: url('https://media.tenor.com/OA1NJFw7_BoAAAAM/meme-kucing.gif');
+}
